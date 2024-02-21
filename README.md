@@ -25,3 +25,10 @@
     <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/46ebbddc-eb10-4f90-92be-871980d4be3d" width="55" height="55" alt="git-alirezanasirian"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" width="55" height="55" alt="pyCharm-alireza-nasirian"/>
 </p>
+<h2>Stats</h2>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-nasirian&theme=transparent">
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-nasirian&layout=compact&theme=transparent">
+</p>
