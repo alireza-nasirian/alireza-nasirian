@@ -9,9 +9,11 @@
 🧩 My favorite hobbies are programming 🤡, listening music and podcasts.
 <br>
 🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
+<!--
 <br>
 💡Currently working in Tosan(Banking and Payment Solution Provider) and on my Bachelor project(Sentiment analysis for twitter comments).
 <br>
+-->
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg"  width="55" height="55" alt="java-alireza-nasirian"/>
