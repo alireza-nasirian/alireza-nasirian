@@ -2,13 +2,13 @@
 
 </a>
 
-👋 My name is Alireza Nasirian. I'm a Back-end developer who loves learning new technologies and frameworks.
+👋 My name is Alireza Nasirian. I am a Software Engineer and researcher with a strong interest in software engineering and secure software systems.
 <br>
-📑I'm currently studying Computer engineering in AmirKabir University of Technology, learning **ML** and **NLP**
+🎓 I am currently a Master’s student in Computer Science at Université de Montréal (UdeM), focusing on software engineering and software supply chain security.
 <br>
-🧩 My favorite hobbies are programming 🤡, listening music and podcasts.
+🧩 My main interests include secure CI/CD pipelines, reproducible builds, GitHub Actions workflows, and large-scale software analysis.
 <br>
-🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
+🎈 Feel free to reach out! I’m always happy to discuss research ideas, software engineering topics, or collaborate on projects.
 <!--
 <br>
 💡Currently working in Tosan(Banking and Payment Solution Provider) and on my Bachelor project(Sentiment analysis for twitter comments).
@@ -16,17 +16,19 @@
 -->
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg"  width="55" height="55" alt="java-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" width="55" height="55" alt="spring-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="55" height="55" alt="python-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" width="55" height="55" alt="oracle-alirezanasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="mySql-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" width="55" height="55" alt="git-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" width="55" height="55" alt="docker-alireza-nasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" width="55" height="55" alt="intellij-alireza-nasirian"/>
-    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/46ebbddc-eb10-4f90-92be-871980d4be3d" width="55" height="55" alt="git-alirezanasirian"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" width="55" height="55" alt="pyCharm-alireza-nasirian"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" width="55" height="55" alt="java"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="55" height="55" alt="python"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" width="55" height="55" alt="spring"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" width="55" height="55" alt="github"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" width="55" height="55" alt="docker"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="55" height="55" alt="linux"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="mysql"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" width="55" height="55" alt="oracle"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" width="55" height="55" alt="git"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" width="55" height="55" alt="intellij"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original-wordmark.svg" width="55" height="55" alt="pycharm"/>
 </p>
+
 <h2>Stats</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=alireza-nasirian&theme=transparent">
