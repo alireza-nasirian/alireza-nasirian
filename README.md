@@ -31,10 +31,10 @@
 
 <h2>Stats</h2>
 <p>
-<img src="https://github-readme-stats-29lrxcvum-alireza-nasirians-projects.vercel.app/api?username=alireza-nasirian&show_icons=true&theme=transparent&cache_seconds=1800" />
+<img src="https://github-readme-stats-alireza-nasirians-projects.vercel.app/api?username=alireza-nasirian&show_icons=true&theme=transparent&cache_seconds=1800" />
 </p>
 <p>
-<img src="https://github-readme-stats-29lrxcvum-alireza-nasirians-projects.vercel.app/api/top-langs/?username=alireza-nasirian&layout=compact&theme=transparent&cache_seconds=1800" />
+<img src="https://github-readme-stats-alireza-nasirians-projects.vercel.app/api/top-langs/?username=alireza-nasirian&layout=compact&theme=transparent&cache_seconds=1800" />
 </p>
 
 <h2>How To Reach Me</h2>
